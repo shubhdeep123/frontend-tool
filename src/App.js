@@ -1,8 +1,9 @@
-import './App.css';
+import "./App.css";
+import Curriculum from "./component/Curriculum";
 
 function App() {
   return (
-    <h1>App is running</h1>
+      <Curriculum />
   );
 }
 
