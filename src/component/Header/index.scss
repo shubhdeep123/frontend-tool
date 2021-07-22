@@ -1,0 +1,35 @@
+.header-buttons-wrapper {
+    text-align: right;
+    padding: 2em 21em 2em 2em;
+    a {
+      padding: 4px 0px 0px 0px;
+      width: 150px;
+      display: inline-block;
+      text-align: center;
+      border-radius: 2px;
+      min-height: 24px;
+      text-decoration: none;
+      color: #fff;
+      background: #f75961;
+    }
+    .upload-wrapper {
+      min-height: 30px;
+      min-width: 100px;
+      margin: 0em 1em 0em 0em;
+      height: 50px;
+  
+      margin: 8px 0px 0px 0px;
+      label {
+        background: #6a8caf;
+        min-width: 130px;
+        display: inline-block;
+        text-align: center;
+        padding: 6px 0px 6px 0px;
+        color: #fff;
+        border-radius: 2px;
+        font-size: 14px;
+        cursor: pointer;
+      }
+    }
+  }
+  
